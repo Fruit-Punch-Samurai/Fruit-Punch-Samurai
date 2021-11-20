@@ -1,5 +1,5 @@
 
-Hi, I'm @Fruit-Punch-Samurai. I'm an Android developer with 3 years of experience, and I also develop desktop GUI applications with JavaFX.
+Hi, I'm Yahia. I'm an Android developer with 3 years of experience, and I also develop desktop GUI applications with JavaFX.
 
 My main skills are:
 - Android app development using clean architecture(MVM, MVI...) and the Jetpack components.
